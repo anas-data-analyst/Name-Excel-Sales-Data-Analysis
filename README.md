@@ -5,7 +5,7 @@ this project showcases a complete sales analysis dashboard built using Microsoft
 ###👉 Featurs & Tools:
 -**Data Summarization:**used  Pivot Tables to aggregate sales data.
 -**visualization:**Created interactive pIE Charts for quick insights.
--**Interactivit:** Added Slicers to filter data by region and category.
+-**Interactivity:** Added Slicers to filter data by region and category.
 ---
 ###🖼 Project Screenshots:
 Here is the visual reprsentation of the analysis:
@@ -16,4 +16,4 @@ Here is the visual reprsentation of the analysis:
 -'Sales Analysis.xlsx': The main project file.
 -'SLIDE 3.png', 'SLIDE 4.png' ... :visual screenshots of the dashboard.
 ---
-*"Turning raw data into actiuonable insights.**
+*"Turning raw data into actionable insights.**
